@@ -1,9 +1,11 @@
-# Use antigen
-source ~/.zsh/antigen/antigen.zsh
+#
+# Source separated zshrcs
+#
 
 # Theme
-POWERLEVEL9K_MODE='awesome-patched'
-antigen theme bhilburn/powerlevel9k powerlevel9k
+# Note that you should define any customizations before calling antigen theme
+# (i.e. setting the POWERLEVEL9K_* variables) in your .zshrc.
+source ~/dotfiles/zsh/zshrc.d/theme/powerlevel9k.zsh
 
-# Tell antigen that you're done.
-antigen apply
+# Plugin manager
+source ~/dotfiles/zsh/zshrc.d/plugin_manager/antigen.zsh
