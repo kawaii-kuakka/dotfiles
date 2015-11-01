@@ -8,3 +8,4 @@ brew cask install iterm2
 
 # Virtualization
 brew cask install virtualbox
+brew cask install vagrant
