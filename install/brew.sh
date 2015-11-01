@@ -8,3 +8,6 @@ brew install vim
 
 # Terminal
 brew install tmux
+
+# Shell
+brew install zsh
