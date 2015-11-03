@@ -10,6 +10,9 @@ brew cask install iterm2
 brew cask install virtualbox
 brew cask install vagrant
 
+# Launcher
+brew cask install quicksilver
+
 # Etc
 brew cask install bettertouchtool
 brew cask install karabiner
