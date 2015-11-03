@@ -3,6 +3,7 @@ source ~/.zsh/antigen/antigen.zsh
 
 # Cd
 antigen-bundle b4b4r07/enhancd
+antigen bundle mollifier/cd-gitroot
 
 # Theme
 antigen theme bhilburn/powerlevel9k powerlevel9k
