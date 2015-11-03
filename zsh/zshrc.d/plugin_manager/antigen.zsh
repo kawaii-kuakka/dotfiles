@@ -1,6 +1,9 @@
 # Use antigen
 source ~/.zsh/antigen/antigen.zsh
 
+# Cd
+antigen-bundle b4b4r07/enhancd
+
 # Theme
 antigen theme bhilburn/powerlevel9k powerlevel9k
 
