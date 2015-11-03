@@ -21,6 +21,9 @@ NeoBundleFetch 'Shougo/neobundle.vim'
 " Refer to |:NeoBundle-examples|.
 " Note: You don't set neobundle setting in .gvimrc!
 
+" Comment
+NeoBundle 'tpope/vim-commentary'
+
 " Utility
 NeoBundle 'Shougo/vimproc.vim', {
 \ 'build' : {
