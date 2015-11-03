@@ -8,7 +8,9 @@
 source ~/dotfiles/zsh/zshrc.d/theme/powerlevel9k.zsh
 
 # Zsh itself
-source ~/dotfiles/zsh/zshrc.d/zsh/*.zsh
+for file in ~/dotfiles/zsh/zshrc.d/zsh/*.zsh; do
+    source $file
+done
 
 # Plugin manager
 source ~/dotfiles/zsh/zshrc.d/plugin_manager/antigen.zsh
