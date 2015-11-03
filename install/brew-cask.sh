@@ -12,3 +12,4 @@ brew cask install vagrant
 
 # Etc
 brew cask install bettertouchtool
+brew cask install karabiner
