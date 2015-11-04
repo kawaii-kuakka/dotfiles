@@ -12,5 +12,8 @@ brew install tmux
 # Shell
 brew install zsh
 
+# Language
+brew install ruby
+
 # Etc
 brew install peco
