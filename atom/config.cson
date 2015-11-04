@@ -10,3 +10,8 @@
     fontSize: 18
     showIndentGuide: true
     fontFamily: "SourceCodePro+Powerline+Awesome+Regular"
+  "vim-mode-plus":
+    useSmartcaseForSearch: true
+    incrementalSearch: true
+    showHoverOnOperate: true
+    showHoverSearchCounter: true
