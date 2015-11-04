@@ -8,3 +8,13 @@
 # Plugins installed by neobundle
 vim/bundle/*
 !vim/bundle/neobundle.vim
+
+#
+# Atom
+#
+atom/*
+!atom/config.cson
+!atom/init.coffee
+!atom/keymap.cson
+!atom/snippets.cson
+!atom/styles.less

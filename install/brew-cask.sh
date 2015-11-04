@@ -6,6 +6,9 @@ brew cask install google-chrome
 # Terminal
 brew cask install iterm2
 
+# Editor
+brew cask install atom
+
 # Virtualization
 brew cask install virtualbox
 brew cask install vagrant
