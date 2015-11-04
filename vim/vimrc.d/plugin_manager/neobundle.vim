@@ -21,6 +21,9 @@ NeoBundleFetch 'Shougo/neobundle.vim'
 " Refer to |:NeoBundle-examples|.
 " Note: You don't set neobundle setting in .gvimrc!
 
+" Color scheme
+NeoBundle 'tomasr/molokai'
+
 " Comment
 NeoBundle 'tpope/vim-commentary'
 
