@@ -3,3 +3,10 @@
     userId: "86dc4109-8cf8-7474-e8a0-d4c9a45d4880"
   welcome:
     showOnStartup: false
+  core: {}
+  editor:
+    invisibles: {}
+    showInvisibles: true
+    fontSize: 18
+    showIndentGuide: true
+    fontFamily: "SourceCodePro+Powerline+Awesome+Regular"
