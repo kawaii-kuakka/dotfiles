@@ -23,6 +23,7 @@ NeoBundleFetch 'Shougo/neobundle.vim'
 
 " Completion
 NeoBundle 'Shougo/neocomplete.vim'
+NeoBundle 'Raimondi/delimitMate'
 
 " Ruby
 NeoBundle 'osyo-manga/vim-monster'
