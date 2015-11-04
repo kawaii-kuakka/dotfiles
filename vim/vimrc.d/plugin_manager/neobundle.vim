@@ -21,6 +21,9 @@ NeoBundleFetch 'Shougo/neobundle.vim'
 " Refer to |:NeoBundle-examples|.
 " Note: You don't set neobundle setting in .gvimrc!
 
+" Completion
+NeoBundle 'Shougo/neocomplete.vim'
+
 " Ruby
 NeoBundle 'osyo-manga/vim-monster'
 
