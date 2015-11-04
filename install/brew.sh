@@ -4,7 +4,7 @@
 brew install git
 
 # Editor
-brew install vim
+brew install vim --with-lua
 
 # Terminal
 brew install tmux
