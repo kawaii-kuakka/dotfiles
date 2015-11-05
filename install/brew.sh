@@ -14,6 +14,7 @@ brew install zsh
 
 # Grep
 brew install ag
+brew install ack
 
 # Language
 brew install ruby
