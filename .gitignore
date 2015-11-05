@@ -5,6 +5,9 @@
 # Swap files
 *.swp
 
+# Etc
+vim/.netrwhist
+
 # Plugins installed by neobundle
 vim/bundle/*
 !vim/bundle/neobundle.vim
