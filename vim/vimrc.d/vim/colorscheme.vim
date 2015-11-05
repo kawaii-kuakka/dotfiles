@@ -1,2 +1,2 @@
 " Set colorscheme
-colorscheme molokai
+colorscheme badwolf

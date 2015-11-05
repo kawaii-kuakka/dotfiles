@@ -30,6 +30,7 @@ NeoBundle 'osyo-manga/vim-monster'
 
 " Color scheme
 NeoBundle 'tomasr/molokai'
+NeoBundle 'sjl/badwolf'
 
 " Comment
 NeoBundle 'tpope/vim-commentary'
