@@ -12,6 +12,9 @@ brew install tmux
 # Shell
 brew install zsh
 
+# Grep
+brew install ag
+
 # Language
 brew install ruby
 
