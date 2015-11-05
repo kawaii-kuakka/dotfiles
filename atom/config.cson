@@ -3,7 +3,11 @@
     userId: "86dc4109-8cf8-7474-e8a0-d4c9a45d4880"
   welcome:
     showOnStartup: false
-  core: {}
+  core:
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax"
+    ]
   editor:
     invisibles: {}
     showInvisibles: true
