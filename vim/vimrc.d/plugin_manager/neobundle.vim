@@ -25,6 +25,10 @@ NeoBundleFetch 'Shougo/neobundle.vim'
 NeoBundle 'Shougo/neocomplete.vim'
 NeoBundle 'Raimondi/delimitMate'
 
+" Snippet
+NeoBundle 'Shougo/neosnippet.vim'
+NeoBundle 'honza/vim-snippets'
+
 " Ruby
 NeoBundle 'osyo-manga/vim-monster'
 
