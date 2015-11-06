@@ -29,6 +29,9 @@ NeoBundle 'Raimondi/delimitMate'
 NeoBundle 'Shougo/neosnippet.vim'
 NeoBundle 'honza/vim-snippets'
 
+" Syntax check
+NeoBundle 'scrooloose/syntastic'
+
 " Ruby
 NeoBundle 'osyo-manga/vim-monster'
 
