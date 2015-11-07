@@ -5,7 +5,7 @@ function peco-select-file() {
     git rev-parse > /dev/null 2>&1
 
     if [ $? -eq 0 ]; then
-        file_path=$(git ls-files | peco)
+        file_path=$((git ls-files; git ls-files --others --exclude-standard) | peco)
     else
         file_path=$(find . | peco)
     fi
