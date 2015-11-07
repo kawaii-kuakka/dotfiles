@@ -13,6 +13,9 @@ brew cask install atom
 brew cask install virtualbox
 brew cask install vagrant
 
+# Infrastrcture as code
+brew cask install chefdk
+
 # Launcher
 brew cask install quicksilver
 
