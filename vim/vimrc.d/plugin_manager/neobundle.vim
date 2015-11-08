@@ -35,6 +35,9 @@ NeoBundle 'scrooloose/syntastic'
 " Grep
 NeoBundle 'rking/ag.vim'
 
+" Git
+NeoBundle 'tpope/vim-fugitive'
+
 " Ruby
 NeoBundle 'osyo-manga/vim-monster'
 
