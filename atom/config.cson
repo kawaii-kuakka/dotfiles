@@ -5,7 +5,7 @@
     showOnStartup: false
   core:
     themes: [
-      "seti-ui"
+      "atom-material-ui"
       "seti-syntax"
     ]
   editor:
@@ -19,3 +19,5 @@
     incrementalSearch: true
     showHoverOnOperate: true
     showHoverSearchCounter: true
+  "file-icons":
+    forceShow: true
