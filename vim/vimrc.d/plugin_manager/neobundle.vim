@@ -58,6 +58,7 @@ NeoBundle 'Shougo/vimproc.vim', {
 
 " UI
 NeoBundle 'Shougo/unite.vim'
+NeoBundle 'tsukkee/unite-tag'
 
 call neobundle#end()
 
