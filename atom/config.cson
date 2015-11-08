@@ -21,3 +21,5 @@
     showHoverSearchCounter: true
   "file-icons":
     forceShow: true
+  "tree-view":
+    hideVcsIgnoredFiles: true
