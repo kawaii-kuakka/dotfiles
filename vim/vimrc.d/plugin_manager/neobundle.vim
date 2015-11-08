@@ -32,6 +32,9 @@ NeoBundle 'honza/vim-snippets'
 " Syntax check
 NeoBundle 'scrooloose/syntastic'
 
+" Grep
+NeoBundle 'rking/ag.vim'
+
 " Ruby
 NeoBundle 'osyo-manga/vim-monster'
 
