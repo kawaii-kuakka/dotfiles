@@ -16,6 +16,9 @@ brew install zsh
 brew install ag
 brew install ack
 
+# Tag
+brew install ctags
+
 # Language
 brew install ruby
 
