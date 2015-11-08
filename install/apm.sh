@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# Snippet
+apm install serverspec-snippets
+
 # Vim
 apm install vim-mode-plus
 
