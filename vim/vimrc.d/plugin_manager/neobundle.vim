@@ -44,6 +44,9 @@ NeoBundle 'tpope/vim-fugitive'
 " Ruby
 NeoBundle 'osyo-manga/vim-monster'
 
+" Ruby
+NeoBundle 'rodjek/vim-puppet'
+
 " Color scheme
 NeoBundle 'tomasr/molokai'
 NeoBundle 'sjl/badwolf'
