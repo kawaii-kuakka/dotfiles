@@ -6,6 +6,9 @@ apm install serverspec-snippets
 # Vim
 apm install vim-mode-plus
 
+# Chef
+apm install language-chef
+
 # Theme
 apm install atom-material-ui
 apm install atom-material-syntax
