@@ -29,6 +29,9 @@ NeoBundle 'Raimondi/delimitMate'
 NeoBundle 'Shougo/neosnippet.vim'
 NeoBundle 'honza/vim-snippets'
 
+" Motion
+NeoBundle 'easymotion/vim-easymotion'
+
 " Syntax check
 NeoBundle 'scrooloose/syntastic'
 
