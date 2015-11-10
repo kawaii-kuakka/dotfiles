@@ -32,6 +32,9 @@ NeoBundle 'honza/vim-snippets'
 " Motion
 NeoBundle 'easymotion/vim-easymotion'
 
+" Text object
+NeoBundle 'tpope/vim-surround'
+
 " Syntax check
 NeoBundle 'scrooloose/syntastic'
 
