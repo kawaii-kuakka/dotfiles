@@ -24,3 +24,4 @@ brew install ruby
 
 # Etc
 brew install peco
+brew install tree
