@@ -17,3 +17,6 @@ apm install seti-syntax
 
 # Icon
 apm install file-icons
+
+# Ruby
+apm install rubocop-auto-correct
