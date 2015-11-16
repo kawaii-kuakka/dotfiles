@@ -45,9 +45,6 @@ NeoBundle 'rking/ag.vim'
 NeoBundle 'tpope/vim-fugitive'
 
 " Ruby
-NeoBundle 'osyo-manga/vim-monster'
-
-" Ruby
 NeoBundle 'rodjek/vim-puppet'
 NeoBundle 'vim-ruby/vim-ruby'
 
