@@ -2,6 +2,7 @@
 
 # Completion
 gem install rcodetools
+gem install rsense
 
 # Terminal
 gem install tmuxinator
