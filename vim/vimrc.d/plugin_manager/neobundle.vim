@@ -47,6 +47,8 @@ NeoBundle 'tpope/vim-fugitive'
 " Ruby
 NeoBundle 'rodjek/vim-puppet'
 NeoBundle 'vim-ruby/vim-ruby'
+NeoBundle 'marcus/rsense'
+NeoBundle 'supermomonga/neocomplete-rsense.vim'
 
 " Color scheme
 NeoBundle 'tomasr/molokai'
