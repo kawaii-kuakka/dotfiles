@@ -34,6 +34,7 @@ NeoBundle 'easymotion/vim-easymotion'
 
 " Text object
 NeoBundle 'tpope/vim-surround'
+NeoBundle 'kana/vim-textobj-user'
 
 " Syntax check
 NeoBundle 'scrooloose/syntastic'
