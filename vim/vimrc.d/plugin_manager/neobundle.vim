@@ -27,7 +27,9 @@ NeoBundle 'Raimondi/delimitMate'
 
 " Snippet
 NeoBundle 'Shougo/neosnippet.vim'
+NeoBundle 'Shougo/neosnippet-snippets'
 NeoBundle 'honza/vim-snippets'
+NeoBundle 'glidenote/serverspec-snippets'
 
 " Motion
 NeoBundle 'easymotion/vim-easymotion'
@@ -58,6 +60,9 @@ NeoBundle 'sjl/badwolf'
 
 " Comment
 NeoBundle 'tpope/vim-commentary'
+
+" File type
+NeoBundle 'Shougo/context_filetype.vim'
 
 " Utility
 NeoBundle 'Shougo/vimproc.vim', {
